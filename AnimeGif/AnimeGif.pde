@@ -10,7 +10,7 @@ void setup() {
    gif.add(loadImage("frame_" + zero + i + "_delay-0.1s.gif"));
    i++;
   }
-  frameRate(20);
+  frameRate(18);
 }
 
 void draw() {
